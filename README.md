@@ -1,6 +1,8 @@
 # System Software
 <head>
         <p align="center">
-      [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/v-3LcLwyYlU)
-              </p>
+          Video HERE
+         </p>   
 </head>
+
+ >>>>>>>>   [![Video HERE](https://j.gifs.com/jY21N5.gif)](https://youtu.be/v-3LcLwyYlU) 
