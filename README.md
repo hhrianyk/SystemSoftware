@@ -1,7 +1,7 @@
 # System Software
 <head>
         <p align="center">
-             <a href="http://blogs.kpi.kharkov.ua/v2/asm/prakticheskie-zanyatiya-sp/" target="_blank">
+             <a href="https://www.youtube.com/watch?v=v-3LcLwyYlU&feature=youtu.be" target="_blank">
                 Video HERE
              </a>
          </p>   
